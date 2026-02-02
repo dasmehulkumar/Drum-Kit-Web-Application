@@ -139,3 +139,9 @@ No additional dependencies or installations required 🎉
 <p>
 This project is open-source and free to use for learning and educational purposes.
 </p>
+
+<hr>
+
+<p align="center">
+  ⭐ If you found this project helpful, consider giving it a <b>star</b>!
+</p>
