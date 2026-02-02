@@ -126,11 +126,10 @@ No additional dependencies or installations required 🎉
 
 <hr>
 
-<h2>👨‍💻 Author</h2>
-
+<h2>🤝 Contributing</h2>
 <p>
-<b>Mehul Kumar Das</b><br>
-Made with ❤️ in India
+  Contributions, suggestions, and improvements are always welcome.<br>
+  Feel free to <b>fork the repository</b> and submit a <b>pull request</b>.
 </p>
 
 <hr>
